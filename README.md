@@ -1,19 +1,9 @@
 # Musinsa_Review
-## MobileBERT를 활용한 와인 리뷰 분석 프로젝트
 badge icon 참고 사이트<br>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
 
-   - 데이터 라벨링 과정을 상세하게 작성하기
-   - 기본적인 탐색적 데이터 분석 하기
-   - 학습 :  epoch별 학습 정확도 / 검증 정확도 그래프
-     * 학습 loss 그래프는 별도로 그리기
-   - 결과 
-     * 라벨이 있는 경우 : 전체 데이터셋에 대한 최종 정확도
-     * 라벨이 없는 경우 : 다양한 분석으로 시각화 (긍부정 비율 등)
-     * (추가사항) 가능한 토픽 모델링을 하여 현상을 설명해보기
-  - 느낀점 및 보완방향
 
 ## 1. 서론
 무신사에서 청바지를 판매하는 쇼핑몰 여러개를 골라 그 중 리뷰가 많은 청바지를 4개씩 골라 리뷰를 수집한다.
@@ -56,7 +46,7 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 
 ## 4. 기본적인 탐색적 데이터 분석
-- 쇼핑몰별 긍정리뷰와 부정리뷰 그래프
+- 쇼핑몰별 긍정리뷰와 부정리뷰 그래프<br>
   ![12](https://github.com/user-attachments/assets/71a8438d-53ca-44f4-9c71-bd8295b1b38a)
 
 
@@ -71,7 +61,7 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 ## 6. 결과
 학습을 진행하면서 모델의 정확도가 향상되었고, loss 값은 꾸준히 감소하는 것을 확인할 수 있었다.
 
-
+* (추가사항) 가능한 토픽 모델링을 하여 현상을 설명해보기
 
 ## 7. 느낀점 및 보완방향
 이번 프로젝트를 통해 리뷰 데이터를 크롤링하고 이를 분석하여 소비자들이 선호하는 제품의 특징과 개선점을 파악하는 과정에서 여러 가지 중요한 정보를 얻을 수 있었다. <br>
