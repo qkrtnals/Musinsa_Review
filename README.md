@@ -57,7 +57,8 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 ## 4. 기본적인 탐색적 데이터 분석
 - 쇼핑몰별 긍정리뷰와 부정리뷰 그래프
-  
+  ![12](https://github.com/user-attachments/assets/71a8438d-53ca-44f4-9c71-bd8295b1b38a)
+
 
 ## 5. 학습 그래프
 - epoch별 학습 정확도 / 검증 정확도 그래프<br>
