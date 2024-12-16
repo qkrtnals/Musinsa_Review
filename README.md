@@ -56,7 +56,12 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 ## 4. 기본적인 탐색적 데이터 분석
 
-## 5. 학습 :  epoch별 학습 정확도 / 검증 정확도 그래프 (학습 loss 그래프는 별도로 그리기)
+## 5. 학습
+- epoch별 학습 정확도 / 검증 정확도 그래프
+![11](https://github.com/user-attachments/assets/378dce85-71cb-4a72-80cf-586fa3c02ee3)
+   - 파란색 그래프는 학습 정확도
+   - 빨간색 그래프는 검증 정확도
+- 학습 loss 그래프
 
 
 ## 6. 결과
