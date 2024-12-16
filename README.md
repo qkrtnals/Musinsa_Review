@@ -28,6 +28,7 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 ## 2. 데이터 수집을 어떻게 했는지
 데이터 수집은 웹 크롤링 기술을 이용하여 진행되었으며, 이를 통해 각 청바지 제품의 상세 페이지에서 리뷰 정보를 자동으로 추출하였다. <br>
+<br>
 <크롤링 과정> <br>
 1. 쇼핑몰 선정<br>
 - 무신사에서 청바지를 판매하는 여러 쇼핑몰을 대상으로, 각 쇼핑몰에서 판매되고 있는 청바지 제품 중 리뷰가 많은 제품을 선정
@@ -57,11 +58,12 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 ## 4. 기본적인 탐색적 데이터 분석
 
 ## 5. 학습
-- epoch별 학습 정확도 / 검증 정확도 그래프
+- epoch별 학습 정확도 / 검증 정확도 그래프<br>
 ![11](https://github.com/user-attachments/assets/378dce85-71cb-4a72-80cf-586fa3c02ee3)
    - 파란색 그래프는 학습 정확도
    - 빨간색 그래프는 검증 정확도
-- 학습 loss 그래프
+<br>
+- 학습 loss 그래프<br>
 
 
 ## 6. 결과
