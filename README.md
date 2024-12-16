@@ -31,13 +31,13 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 <크롤링 과정> <br>
 1. 쇼핑몰 선정<br>
 - 무신사에서 청바지를 판매하는 여러 쇼핑몰을 대상으로, 각 쇼핑몰에서 판매되고 있는 청바지 제품 중 리뷰가 많은 제품을 선정
-3. 리뷰 데이터 추출<br>
+2. 리뷰 데이터 추출<br>
 - 선정된 청바지 제품의 상세 페이지에서 소비자 리뷰 데이터를 크롤링
 - 각 제품 페이지에서 소비자 리뷰 내용(Review), 평점(Rating), 작성 날짜(Date)를 추출후 csv 파일로 저장
 - 저장 된 각각의 csv 파일에 맞는 쇼핑몰명, 상품명을 추가
 - 여러 csv파일을 하나의 파일 통합
    
-5. 크롤링 도구 <br>
+3. 크롤링 도구 <br>
 - Selenium 사용<br>
      (Selenium은 웹 브라우저를 직접 제어할 수 있는 기능을 제공하여, 웹 페이지 상의 요소를 자동으로 클릭하거나 스크롤하며 필요한 정보를 수집할 수 있게 해준다.)<br>
      ![화면 캡처 2024-12-16 144914](https://github.com/user-attachments/assets/e5947e8c-719a-4a2b-aae9-20296487ccb1) (코드예시)
@@ -45,7 +45,7 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 ## 3. 데이터 라벨링 과정 (상세하게 작성)
 - 추출한 리뷰 데이터에서 NaN값이 들어있는 리뷰를 제외하면 평점(Rating)이 4점 이상은 9972건, 3점 이하는 254건
-  
+  ![0000](https://github.com/user-attachments/assets/36a87b6b-fb59-4e38-aabe-bc2ad4cb4c4c)
    - 별점이 4점 이상인 리뷰는 긍정(1) 라벨을 부여
    - 별점이 3점 이하인 리뷰는 부정(0) 라벨을 부여
    - 위의 데이터를 기반으로, Koelectra-base-v3-discriminator 모델을 사용하여 감정 분석을 위한 학습을 진행 <br>
