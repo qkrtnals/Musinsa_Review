@@ -1,9 +1,4 @@
 # Musinsa_Review
-badge icon 참고 사이트<br>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
-
 
 ## 1. 서론
 무신사에서 청바지를 판매하는 쇼핑몰 여러개를 골라 그 중 리뷰가 많은 청바지를 4개씩 골라 리뷰를 수집한다.
