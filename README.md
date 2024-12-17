@@ -60,7 +60,7 @@ Review(리뷰), 쇼핑몰명, 상품명, Rating(별점), Date(날짜), pred_labe
  
 <NaN값이 포함 모든 데이터>
 - 긍정리뷰가 가장 많은 상품보기
-  
+  ![긍정리뷰가가장많은상품명](https://github.com/user-attachments/assets/70d98204-a4f1-4849-8431-5ad16dfe932d)
 - 부정리뷰가 가장 많은 상품보기
   
 
