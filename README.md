@@ -54,13 +54,18 @@ Review(리뷰), 쇼핑몰명, 상품명, Rating(별점), Date(날짜), pred_labe
 - 쇼핑몰별 긍정리뷰와 부정리뷰 그래프<br>
 ![긍부정그래프](https://github.com/user-attachments/assets/d232a507-c53b-446d-81fb-ba97e0ce5896) <br>
 그래프를 보면 긍정 리뷰가 가장 많은 쇼핑몰은 트릴리온이고, 부정 리뷰가 가장 많은 쇼핑몰은 페이탈리즘이다. <br>
-- 쇼핑몰 트릴리온의 긍정 리뷰와 부정 리뷰 살펴보기<br>
+- 쇼핑몰 트릴리온의 긍부정 리뷰 살펴보기<br>
    - 부정리뷰
 ![10](https://github.com/user-attachments/assets/a486d491-c7d2-4a36-bcff-342eb2da1ef3) <br>
 별점이 4.0이상임에도 부정 리뷰가 많다.<br>
  별점이 높더라도 부정적인 리뷰가 있다는 것을 확인할 수 있다.<be>
    - 긍정리뷰
   ![트릴리온긍정](https://github.com/user-attachments/assets/da4ae6a2-811d-4b0c-9cd6-41dcf953ade4) <br>
+- 쇼핑몰 페이탈리즘의 긍부정 리뷰 살펴보기 <br>
+   - 부정리뷰
+     
+ 
+   - 긍정리뷰
 
 
 ## 5. 학습 그래프
