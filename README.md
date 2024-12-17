@@ -61,10 +61,8 @@ Review(리뷰), 쇼핑몰명, 상품명, Rating(별점), Date(날짜), pred_labe
    - 긍정리뷰
 ![트릴리온긍정](https://github.com/user-attachments/assets/da4ae6a2-811d-4b0c-9cd6-41dcf953ade4) <br>
 대부분 워싱이 마음에 든다는 긍정적인 내용을 볼 수 있다.
-<br>
 - 쇼핑몰 페이탈리즘의 긍부정 리뷰 살펴보기 <br>
-   - 부정리뷰
-     
+   - 부정리뷰 <br>
 
 <br>
 별점이 4.0이상임에도 부정 리뷰가 많다.<br>
