@@ -52,12 +52,13 @@ Review(리뷰), 쇼핑몰명, 상품명, Rating(별점), Date(날짜), pred_labe
 
 <NaN값이 없는 데이터>
 - 쇼핑몰별 긍정리뷰와 부정리뷰 그래프<br>
-![01](https://github.com/user-attachments/assets/f8e6e9a2-0e8d-4c46-b2a1-1a1933b96de4) <br>
+
+<br>
 그래프를 보면 긍정 리뷰가 가장 많은 쇼핑몰은 트릴리온이고, 부정 리뷰가 가장 많은 쇼핑몰은 굿라이프웍스다. <br>
 - 쇼핑몰 트릴리온의 긍정 리뷰와 부정 리뷰 살펴보기
 ![10](https://github.com/user-attachments/assets/a486d491-c7d2-4a36-bcff-342eb2da1ef3)
-  - 별점이 4.0이상임에도 부정 리뷰가 많은 것을 확인할 수 있다.
- 
+  - 별점이 4.0이상임에도 부정 리뷰가 많다.<br>
+ 별점이 높더라도 부정적인 리뷰가 있을 수 있음을 확인할 수 있다.
 
 
 ## 5. 학습 그래프
