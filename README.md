@@ -46,17 +46,20 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 
 ## 4. 기본적인 탐색적 데이터 분석
+- 데이터 구성 <br>
+![0011](https://github.com/user-attachments/assets/41b84e3d-7b21-4f49-aa68-bb7f1b3bb7df) <br>
+Review(리뷰), 쇼핑몰명, 상품명, Rating(별점), Date(날짜), pred_label(긍부정)의 칼럼이 있다. <br><br>
 - 쇼핑몰별 긍정리뷰와 부정리뷰 그래프<br>
 ![01](https://github.com/user-attachments/assets/f8e6e9a2-0e8d-4c46-b2a1-1a1933b96de4) <br>
-그래프를 보면 긍정 리뷰가 가장 많은 쇼핑몰은 트릴리온이고, 부정 리뷰가 가장 많은 쇼핑몰은 페이탈리즘이다. <br>
-- 
+그래프를 보면 긍정 리뷰가 가장 많은 쇼핑몰은 트릴리온이고, 부정 리뷰가 가장 많은 쇼핑몰은 굿라이프웍스다. <br>
+-  
 
 
 ## 5. 학습 그래프
 - epoch별 학습 정확도 / 검증 정확도 그래프<br>
 ![11](https://github.com/user-attachments/assets/378dce85-71cb-4a72-80cf-586fa3c02ee3)
    - 파란색 그래프는 학습 정확도
-   - 빨간색 그래프는 검증 정확도<br>
+   - 빨간색 그래프는 검증 정확도<br><br>
 - 학습 loss 그래프<br>
 ![22](https://github.com/user-attachments/assets/ce4ff23a-139a-4cb7-877b-0fbd70eb8a6b)
 
