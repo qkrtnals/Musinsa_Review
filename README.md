@@ -49,12 +49,20 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 - 데이터 구성 <br>
 ![0011](https://github.com/user-attachments/assets/41b84e3d-7b21-4f49-aa68-bb7f1b3bb7df) <br>
 Review(리뷰), 쇼핑몰명, 상품명, Rating(별점), Date(날짜), pred_label(긍부정)의 칼럼이 있다. <br><br>
+
+<NaN값이 없는 데이터>
 - 쇼핑몰별 긍정리뷰와 부정리뷰 그래프<br>
 ![01](https://github.com/user-attachments/assets/f8e6e9a2-0e8d-4c46-b2a1-1a1933b96de4) <br>
 그래프를 보면 긍정 리뷰가 가장 많은 쇼핑몰은 트릴리온이고, 부정 리뷰가 가장 많은 쇼핑몰은 굿라이프웍스다. <br>
 - 쇼핑몰 트릴리온의 긍정 리뷰와 부정 리뷰 살펴보기
-
-  - 별점이 4.0이상인 리뷰에도 부정 리뷰가 많은 것을 알 수 있고 
+![10](https://github.com/user-attachments/assets/a486d491-c7d2-4a36-bcff-342eb2da1ef3)
+  - 별점이 4.0이상인 리뷰에도 부정 리뷰가 많은 것을 알 수 있고
+ 
+<NaN값이 포함 모든 데이터>
+- 긍정리뷰가 가장 많은 상품보기
+  
+- 부정리뷰가 가장 많은 상품보기
+  
 
 
 ## 5. 학습 그래프
