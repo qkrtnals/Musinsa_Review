@@ -47,8 +47,9 @@ https://www.dailycnc.com/news/articleView.html?idxno=209683 기사에 따르면
 
 ## 4. 기본적인 탐색적 데이터 분석
 - 쇼핑몰별 긍정리뷰와 부정리뷰 그래프<br>
-![23](https://github.com/user-attachments/assets/aebcca25-372e-46a9-901b-66d65663e670) <br>
-   - 
+![01](https://github.com/user-attachments/assets/f8e6e9a2-0e8d-4c46-b2a1-1a1933b96de4) <br>
+그래프를 보면 긍정 리뷰가 가장 많은 쇼핑몰은 트릴리온이고, 부정 리뷰가 가장 많은 쇼핑몰은 페이탈리즘이다. <br>
+- 
 
 
 ## 5. 학습 그래프
